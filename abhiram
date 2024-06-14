@@ -1,0 +1,5 @@
+A hard link alsways point a file name to data on a storage divice
+
+* soft link point a file name to another file name which then points to into storage divice 
+
+hardlink test

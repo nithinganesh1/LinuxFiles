@@ -1,0 +1,8 @@
+
+a) Soft Links (Symbolic Links):
+- Create a soft link named "link1" that points to a file named "file1.txt" in the "/home" directory.
+- Verify the target file of the soft link using the appropriate command.
+- Create a soft link named "link2" that points to a directory named "dir1" in the "/tmp" directory.
+- Remove the soft links while preserving the target files/directories.
+
+modified using hard link /home/mylink1 

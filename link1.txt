@@ -1,0 +1,5 @@
+createed the file named original.txt and added some content to it
+Now i changed some content in original.txt is it reflected 
+if you can read then it changed in hard link also
+
+last modifyed 12:31 13/05/2024
